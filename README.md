@@ -20,9 +20,6 @@ Estudando Sistemas de Informação no primeiro semestre com foco em desenvolvime
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
                 <p align="left">
                           
                       <a href="https://discord.com/users/dands#6621" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
