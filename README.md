@@ -10,7 +10,9 @@ Estudando Sistemas de Informação no primeiro semestre com foco em desenvolvime
 *   ✉️  Você pode entrar em contato comigo pelo e-mail: [dandaravpimenta@gmail.com](mailto:dandaravpimenta@gmail.com)
 *   🚀  Atualmente estou trabalhando no projeto [Letras Padreco](http://letraspadreco.netlify.app/)
 *   🧠  Aprendendo Javascript
-*   🤝  Estou aberta a colaborar em projetos para iniciantes que possam aprimorar meu conhecimento.### Skills 
+*   🤝  Estou aberta a colaborar em projetos para iniciantes que possam aprimorar meu conhecimento.
+
+Skills:
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
