@@ -1,8 +1,8 @@
-Olá 👋 Meu nome é Dandara Pimenta
+Olá 👋 Meu nome é [Dandara Pimenta](https://dandaradev.github.io/portfolio/)
 ================================
 
 Estagiária em TI - PBH
---------------
+------------------------
 
 Estudando Sistemas de Informação no primeiro semestre com foco em desenvolvimento de software e análise de dados. Sigo buscando experiências práticas em projetos de TI e expandir minhas habilidades em programação.
 
