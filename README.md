@@ -4,7 +4,7 @@ Olá 👋 Meu nome é [Dandara Pimenta](https://dandaradev.github.io/portfolio/)
 Estagiária em TI - PBH
 ------------------------
 
-Estudando Sistemas de Informação no primeiro semestre com foco em desenvolvimento de software e análise de dados. Sigo buscando experiências práticas em projetos de TI e expandir minhas habilidades em programação.
+Estudando Sistemas de Informação no quarto semestre com foco em desenvolvimento de software e análise de dados. Sigo buscando experiências práticas em projetos de TI e expandir minhas habilidades em programação.
 
 *   🌍  Sou de Belo Horizonte - MG
 *   ✉️  Você pode entrar em contato comigo pelo e-mail: [dandaravpimenta@gmail.com](mailto:dandaravpimenta@gmail.com)
